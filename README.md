@@ -1,1 +1,0 @@
-# kshadyev_application.md
